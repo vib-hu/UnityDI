@@ -1,1 +1,15 @@
 D:\CodingInterviewPrep\UnityDI\UnityDI\bin\Debug\UnityDI.exe.config
+D:\CodingInterviewPrep\UnityDI\UnityDI\bin\Debug\UnityDI.exe
+D:\CodingInterviewPrep\UnityDI\UnityDI\bin\Debug\UnityDI.pdb
+D:\CodingInterviewPrep\UnityDI\UnityDI\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\CodingInterviewPrep\UnityDI\UnityDI\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\CodingInterviewPrep\UnityDI\UnityDI\bin\Debug\Microsoft.Practices.Unity.dll
+D:\CodingInterviewPrep\UnityDI\UnityDI\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\CodingInterviewPrep\UnityDI\UnityDI\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\CodingInterviewPrep\UnityDI\UnityDI\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\CodingInterviewPrep\UnityDI\UnityDI\bin\Debug\Microsoft.Practices.Unity.xml
+D:\CodingInterviewPrep\UnityDI\UnityDI\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\CodingInterviewPrep\UnityDI\UnityDI\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\CodingInterviewPrep\UnityDI\UnityDI\obj\Debug\UnityDI.csprojResolveAssemblyReference.cache
+D:\CodingInterviewPrep\UnityDI\UnityDI\obj\Debug\UnityDI.exe
+D:\CodingInterviewPrep\UnityDI\UnityDI\obj\Debug\UnityDI.pdb

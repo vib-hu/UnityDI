@@ -8,8 +8,8 @@ namespace UnityDI.ClassesAndInterfaces
 {
     public class ProductRepository : IProductRepository
     {
-        IDataContext _dataContext;
-        String _testString;
+       private  IDataContext _dataContext;
+       private String _testString;
 
         public ProductRepository(IDataContext DataContext, string TestString)
         {
